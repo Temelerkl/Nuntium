@@ -1,0 +1,88 @@
+body {
+  background-color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+h2 {
+  font-size: 35px;
+}
+.header {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 25px 50px;
+}
+.left-area {
+  display: flex;
+  align-items: center;
+  font-size: 25px;
+}
+.categories > ul {
+  display: flex;
+  gap: 15px;
+  margin-right: 1250px;
+}
+.demo-button {
+  padding: 10px 30px;
+  border-radius: 10px;
+  font-size: 15px;
+  background-color: white;
+  width: 115px;
+  height: 45px;
+}
+i {
+  margin-right: 15px;
+  font-size: 23px;
+}
+.container > img {
+  text-align: center;
+  width: 100%;
+  height: 700px;
+  position: relative;
+}
+.nav {
+  background-color: white;
+  color: black;
+  position: absolute;
+  top: 155px;
+  width: 600px;
+  height: 500px;
+}
+.nav-2 {
+  width: 350px;
+  text-align: justify;
+  padding: 40px;
+}
+.main > b {
+  text-align: center;
+  display: block;
+  font-size: 55px;
+  margin: 20px;
+}
+hr {
+  width: 350px;
+  border: 3px solid;
+}
+.section-1 {
+  width: 1500px;
+  margin: 0;
+  height: 350px;
+  padding-top: 50px;
+}
+.Kitap {
+  float: left;
+  padding: 0 10px 10px 0;
+  width: 800px;
+  height: 400px;
+}
+.text-1 {
+  display: table-cell;
+  vertical-align: middle;
+}
